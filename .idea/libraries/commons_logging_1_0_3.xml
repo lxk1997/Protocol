@@ -1,0 +1,19 @@
+<component name="libraryTable">
+  <library name="commons-logging-1.0.3">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/commons-logging-1.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/javassist-3.24.1-GA.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/jcl-over-slf4j-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/jzlib-1.1.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/ognl-3.2.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/slf4j-api-1.7.26.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/spring-2.5.6.SEC03.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/tomcat-jni-9.0.16.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/lib/xbean-spring-4.12.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$PROJECT_DIR$/src" />
+    </SOURCES>
+  </library>
+</component>

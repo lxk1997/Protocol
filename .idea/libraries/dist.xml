@@ -1,0 +1,20 @@
+<component name="libraryTable">
+  <library name="dist">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-core-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-example-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-filter-compression-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-http-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-integration-beans-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-integration-jmx-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-integration-ognl-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-integration-xbean-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-transport-apr-2.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist/mina-statemachine-2.1.0.jar!/" />
+      <root url="file://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+    <jarDirectory url="file://$PROJECT_DIR$/../wula/mina/apache-mina-2.1.0/dist" recursive="false" />
+  </library>
+</component>
